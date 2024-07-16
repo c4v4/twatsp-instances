@@ -1,5 +1,5 @@
 # TWATSP-ST Instances
-This repository stores the instances and results of `Models and Algorithms for the Time Windows Assignment Travelling Salesperson Problem with Stochastic Travel Times`, by Francesco Cavaliere, Matteo Fischetti, Roberto Roberti, and Domenico Salvagnin.
+This repository stores the instances and results of `Models and Algorithms for the Time Windows Assignment Travelling Salesperson Problem with Stochastic Travel Times`.
 
 ## Results
 Results are provided in `csv` format in the [`results`](results/) directory. Each file follows the naming of the corresponding table in the original paper.
